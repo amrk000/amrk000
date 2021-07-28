@@ -15,7 +15,7 @@
     <tr>
       <td><a href="#end"><img src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"></a></td>
       <td><a href="https://github.com/amrk000?tab=repositories"><img src="https://user-images.githubusercontent.com/63168118/127409729-d9e027b2-1cb1-4047-9a9f-5cfbff668371.jpg"></a></td>
-      <td><a href="https://play.google.com/store/apps/dev?id=5289896800613171020" target="_blank"><img src="https://user-images.githubusercontent.com/63168118/127409724-5dfa68fd-e7a0-4cf7-ba3b-37562cc7f013.jpg"></a></td>
+      <td><a href="https://play.google.com/store/apps/dev?id=5289896800613171020"><img src="https://user-images.githubusercontent.com/63168118/127409724-5dfa68fd-e7a0-4cf7-ba3b-37562cc7f013.jpg"></a></td>
     </tr>
   </table>
   
