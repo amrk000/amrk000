@@ -5,7 +5,7 @@
 <div align="center"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404757-85143ff6-21e0-4769-81f9-9e675f200da9.png"></div>
 
 <!--https://github.com/denvercoder1/github-readme-streak-stats-->
-<img height="370px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neon-dark&hide_border=true&background=0D1117&fire=FF7C0F&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=FF3535)](https://git.io/streak-stats">
+<img height="370px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neon-dark&hide_border=true&background=0D1117&fire=ffa60c&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=ff1616)](https://git.io/streak-stats">
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrk000&layout=compact&bg_color=0D1117&text_color=FFF&hide_border=1&hide_title=1&card_width=600">
