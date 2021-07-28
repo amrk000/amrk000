@@ -10,6 +10,15 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrk000&layout=compact&bg_color=0D1117&text_color=FFF&hide_border=1&hide_title=1&card_width=600">
 
+<h2>My Work</h2> 
+  <table>
+    <tr>
+      <td><a href="#end"><img src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"></a></td>
+      <td><a href="https://github.com/amrk000?tab=repositories"><img src="https://user-images.githubusercontent.com/63168118/127409729-d9e027b2-1cb1-4047-9a9f-5cfbff668371.jpg"></a></td>
+      <td><a href="https://play.google.com/store/apps/dev?id=5289896800613171020" target="_blank"><img src="https://user-images.githubusercontent.com/63168118/127409724-5dfa68fd-e7a0-4cf7-ba3b-37562cc7f013.jpg"></a></td>
+    </tr>
+  </table>
+  
 <!--https://github.com/denvercoder1/readme-typing-svg-->
 <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=20&center=true&width=500&height=70&lines=Work+Smart+!;Don't+Work+Hard."></div>
 
@@ -18,3 +27,4 @@
 
 <div align="center"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404884-a6a276ee-848f-46e4-a06b-45dc55f123b6.png"></div>
 <div align="center" id="end"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127400481-82b7d070-8d18-4427-ab26-db2c4d68f17b.gif"></div>
+
