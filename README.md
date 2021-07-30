@@ -10,7 +10,7 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrk000&layout=compact&bg_color=0D1117&text_color=FFF&hide_border=1&hide_title=1&card_width=600"></a>
 
-<h2 id="my_work">My Work</h2> 
+<h2 id="my_work" align="center">My Work</h2> 
   <table>
     <tr>
       <td><a href="#end"><img src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"></a></td>
