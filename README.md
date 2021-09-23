@@ -28,4 +28,3 @@
   </div>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404884-a6a276ee-848f-46e4-a06b-45dc55f123b6.png"></a>
 <a href="#"><img id="end" width="100%" src="https://user-images.githubusercontent.com/63168118/127400481-82b7d070-8d18-4427-ab26-db2c4d68f17b.gif"></a>
-
