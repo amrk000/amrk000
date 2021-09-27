@@ -1,7 +1,8 @@
 
-<img width="100%" height="20px" src="https://dl.dropbox.com/s/98sex62nt99v9j0/RGB%20Line.svg"/>
+<!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href to that containing my github profile link-->
+<a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://dl.dropbox.com/s/tvvb4aoj5bl1b0t/RGB%20Top%20Line.svg"/></a>
 <a href="#my_work"><img width="100%" src="https://user-images.githubusercontent.com/63168118/134898999-1a031902-1626-4dac-9e81-77441ae6305b.jpg"/></a>
-<img width="100%" height="30px" src="https://dl.dropbox.com/s/b4v8bve19zd7ne1/RGB%20Line.svg"/>
+<a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404757-85143ff6-21e0-4769-81f9-9e675f200da9.png"/></a>
 
 <!--https://github.com/denvercoder1/github-readme-streak-stats-->
@@ -10,7 +11,11 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrk000&layout=compact&bg_color=0D1117&text_color=FFF&hide_border=1&hide_title=1&card_width=600"/></a>
 
-<h2 id="my_work" align="center">My Work</h2> 
+<div align="center">
+<a href="https://github.com/amrk000" ><img width="85%" height="15px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
+</div>
+
+<h1 id="my_work" align="center">My Work</h1> 
   <table>
     <tr>
       <td><a href="#end"><img src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"/></a></td>
@@ -22,7 +27,6 @@
   </br>
   <h2 id="android" align="left">Android Apps</h2> 
 -- Under Construction ... --
-<img src="https://cdn.discordapp.com/attachments/696862230636920852/892016279005835354/test.svg"/>
 
 <div align="center">
   <!--https://github.com/denvercoder1/readme-typing-svg-->
@@ -32,4 +36,5 @@
    <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20em" width="70em" src="https://komarev.com/ghpvc/?username=amrk000&style=flat-square&color=red&label=Views"/></a>
   </div>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404884-a6a276ee-848f-46e4-a06b-45dc55f123b6.png"/></a>
-<img width="100%" height="30px" src="https://dl.dropbox.com/s/b4v8bve19zd7ne1/RGB%20Line.svg"/>
+<a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
+<!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href to that containing my github profile link-->
