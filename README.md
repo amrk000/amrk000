@@ -1,5 +1,5 @@
 
-<a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127400481-82b7d070-8d18-4427-ab26-db2c4d68f17b.gif"/></a>
+<a href="#"><img width="100%" src="https://dl.dropbox.com/s/b4v8bve19zd7ne1/RGB%20Line.svg"/></a>
 <!--old profile: https://user-images.githubusercontent.com/63168118/127392882-c988eb86-e0c3-4300-be36-47762d1a8b66.jpg -->
 <a href="#my_work"><img width="100%" src="https://user-images.githubusercontent.com/63168118/134898999-1a031902-1626-4dac-9e81-77441ae6305b.jpg"/></a>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127400481-82b7d070-8d18-4427-ab26-db2c4d68f17b.gif"/></a>
