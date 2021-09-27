@@ -1,6 +1,7 @@
 
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127400481-82b7d070-8d18-4427-ab26-db2c4d68f17b.gif"></a>
-<a href="#my_work"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127392882-c988eb86-e0c3-4300-be36-47762d1a8b66.jpg"></a>
+<!--old profile: https://user-images.githubusercontent.com/63168118/127392882-c988eb86-e0c3-4300-be36-47762d1a8b66.jpg -->
+<a href="#my_work"><img width="100%" src="https://user-images.githubusercontent.com/63168118/134898999-1a031902-1626-4dac-9e81-77441ae6305b.jpg"></a>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127400481-82b7d070-8d18-4427-ab26-db2c4d68f17b.gif"></a>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404757-85143ff6-21e0-4769-81f9-9e675f200da9.png"></a>
 
@@ -18,6 +19,10 @@
       <td><a href="https://play.google.com/store/apps/dev?id=5289896800613171020"><img src="https://user-images.githubusercontent.com/63168118/127409724-5dfa68fd-e7a0-4cf7-ba3b-37562cc7f013.jpg"></a></td>
     </tr>
   </table>
+  
+  
+  
+  
   
 <div align="center">
   <!--https://github.com/denvercoder1/readme-typing-svg-->
