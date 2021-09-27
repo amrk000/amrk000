@@ -20,10 +20,11 @@
     </tr>
   </table>
   
-  
-  
-  
-  
+  </br>
+  <h2 id="android" align="left">Android Apps</h2> 
+-- Under Construction ... --
+<img src="https://cdn.discordapp.com/attachments/696862230636920852/892016279005835354/test.svg">
+
 <div align="center">
   <!--https://github.com/denvercoder1/readme-typing-svg-->
   <a href="https://github.com/denvercoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=20&center=true&width=500&height=70&lines=Work+Smart+!;Don't+Work+Hard."></a>
