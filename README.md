@@ -26,7 +26,7 @@
   
   </br>
   <h2 id="android" align="left">Android Apps</h2> 
--- Under Construction ... --
+  <img width="100%" height="100%" src="https://dl.dropbox.com/s/w85ucleitrtzbmz/Android%20Apps.svg"/>
 
 <div align="center">
   <!--https://github.com/denvercoder1/readme-typing-svg-->
