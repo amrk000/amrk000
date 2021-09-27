@@ -25,8 +25,8 @@
   </table>
   
   </br>
-  <h2 id="android" align="left">Android Apps</h2> 
-  <img width="100%" height="100%" src="https://dl.dropbox.com/s/w85ucleitrtzbmz/Android%20Apps.svg"/>
+<!--   <h2 id="android" align="left">Android Apps</h2> 
+  <a href="#"><img width="100%" height="500px" src="https://dl.dropbox.com/s/w85ucleitrtzbmz/Android%20Apps.svg"/></a> -->
 
 <div align="center">
   <!--https://github.com/denvercoder1/readme-typing-svg-->
