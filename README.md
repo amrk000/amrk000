@@ -36,5 +36,5 @@
    <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20em" width="70em" src="https://komarev.com/ghpvc/?username=amrk000&style=flat-square&color=red&label=Views"/></a>
   </div>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404884-a6a276ee-848f-46e4-a06b-45dc55f123b6.png"/></a>
-<a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
+<a href="https://github.com/amrk000"><img id="end" width="100%" height="30px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
 <!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href to that containing my github profile link-->
