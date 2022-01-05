@@ -11,11 +11,18 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrk000&layout=compact&bg_color=0D1117&text_color=FFF&hide_border=1&hide_title=1&card_width=600"/></a>
 
+<h1 id="about" align="center">Who Am I</h1>
 <div align="center">
-<a href="https://github.com/amrk000" ><img width="85%" height="15px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
+<a href="https://github.com/amrk000" ><img width="20%" height="20px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
+</div>
+<h3 align="center">Geek who fell in love with computers & modern technology which changed the world and still shaping the future. Curiosity for knowledge is the power that motivates me for learning and continue self improving. Had passion to learn & try multiple fields like designing, Montage, Motion graphics, Audio production/editing & Software development. As a gamer, turning my ideas into reality and achieving goals is the best game to play.</h3>
+<br>
+
+<h1 id="my_work" align="center">My Work</h1>
+<div align="center">
+<a href="https://github.com/amrk000" ><img width="20%" height="20px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
 </div>
 
-<h1 id="my_work" align="center">My Work</h1> 
   <table>
     <tr>
       <td><a href="#end"><img src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"/></a></td>
