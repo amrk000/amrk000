@@ -15,7 +15,7 @@
 <div align="center">
 <a href="https://github.com/amrk000" ><img width="20%" height="20px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
 </div>
-<h3 align="center">Geek who fell in love with computers & modern technology which changed the world and still shaping the future. Curiosity for knowledge is the power that motivates me for learning and continue self improving. Had passion to learn & try multiple fields like designing, Montage, Motion graphics, Audio production/editing & Software development. As a gamer, turning my ideas into reality and achieving goals is the best game to play.</h3>
+<p align="center">Geek who fell in love with computers & modern technology which changed the world and still shaping the future. Curiosity for knowledge is the power that motivates me for learning and continue self improving. Had passion to learn & try multiple fields like designing, Montage, Motion graphics, Audio production/editing & Software development. As a gamer, turning my ideas into reality and achieving goals is the best game to play.</p>
 <br>
 
 <h1 id="my_work" align="center">My Work</h1>
