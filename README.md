@@ -37,7 +37,7 @@
 
 <div align="center">
   <!--https://github.com/denvercoder1/readme-typing-svg-->
-  <a href="https://github.com/denvercoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=20&center=true&width=500&height=70&lines=Work+Smart+!;Don't+Work+Hard."></a>
+  <a href="https://github.com/denvercoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Inconsolta&size=20&center=true&width=500&height=70&lines=Real+Developer+Develops+Himself;Before+Developing+Machines."></a>
   
   <!--https://github.com/antonkomarev/github-profile-views-counter-->
    <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20em" width="70em" src="https://komarev.com/ghpvc/?username=amrk000&style=flat-square&color=red&label=Views"/></a>
