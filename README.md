@@ -1,4 +1,5 @@
 
+<div align="center">
 <!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href to that containing my github profile link-->
 <a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://dl.dropbox.com/s/tvvb4aoj5bl1b0t/RGB%20Top%20Line.svg"/></a>
 <a href="#my_work"><img width="100%" src="https://user-images.githubusercontent.com/63168118/134898999-1a031902-1626-4dac-9e81-77441ae6305b.jpg"/></a>
@@ -8,12 +9,13 @@
 <!--https://github.com/denvercoder1/github-readme-streak-stats-->
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="370px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neondark&hide_border=true&background=0D1117&fire=ffa60c&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=ff1616"/></a>
 
-<!--https://github.com/anuraghazra/github-readme-stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrk000&layout=compact&bg_color=0D1117&text_color=FFF&hide_border=1&hide_title=1&card_width=600"/></a>
-
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img height="100%" width="100%" src="https://activity-graph.herokuapp.com/graph?username=amrk000&theme=react-dark&hide_border=true&area=true&color=ffffff&line=05C5FE&point=05C5FE&area=false&hide_title=true&color=null"/></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img height="100%" width="900px" src="https://activity-graph.herokuapp.com/graph?username=amrk000&theme=react-dark&hide_border=true&area=true&color=ffffff&line=05C5FE&point=05C5FE&area=false&hide_title=true&color=null"/></a>
 
+<!--https://github.com/anuraghazra/github-readme-stats-->
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrk000&layout=compact&bg_color=0D1117&text_color=FFF&hide_border=1&hide_title=1&card_width=600&langs_count=3"/></a>
+</div>
+  
 <h1 id="about" align="center">Who Am I</h1>
 <div align="center">
 <a href="https://github.com/amrk000" ><img width="20%" height="20px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
