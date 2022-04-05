@@ -11,6 +11,9 @@
 <!--https://github.com/anuraghazra/github-readme-stats-->
 <a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrk000&layout=compact&bg_color=0D1117&text_color=FFF&hide_border=1&hide_title=1&card_width=600"/></a>
 
+<!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img height="100%" width="100%" src="https://activity-graph.herokuapp.com/graph?username=amrk000&theme=react-dark&hide_border=true&area=true&color=ffffff&line=05C5FE&point=05C5FE&area=false&hide_title=true&color=null"/></a>
+
 <h1 id="about" align="center">Who Am I</h1>
 <div align="center">
 <a href="https://github.com/amrk000" ><img width="20%" height="20px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
