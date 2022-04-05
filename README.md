@@ -7,13 +7,13 @@
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404757-85143ff6-21e0-4769-81f9-9e675f200da9.png"/></a>
 
 <!--https://github.com/denvercoder1/github-readme-streak-stats-->
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="370px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neondark&hide_border=true&background=0D1117&fire=ffa60c&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=ff1616"/></a>
+<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="390px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neondark&hide_border=true&background=0D1117&fire=ffa60c&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=ff1616"/></a>
 
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img height="100%" width="900px" src="https://activity-graph.herokuapp.com/graph?username=amrk000&theme=react-dark&hide_border=true&area=true&color=ffffff&line=05C5FE&point=05C5FE&area=false&hide_title=true&color=null"/></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img align="left" height="280px" width="960px" src="https://activity-graph.herokuapp.com/graph?username=amrk000&theme=react-dark&hide_border=true&area=true&color=ffffff&line=05C5FE&point=05C5FE&area=false&hide_title=true&color=null"/></a>
 
 <!--https://github.com/anuraghazra/github-readme-stats-->
-<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrk000&layout=compact&bg_color=0D1117&text_color=FFF&hide_border=1&hide_title=1&card_width=600&langs_count=3"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img height="150px" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amrk000&layout=compact&bg_color=0D1117&text_color=FFF&hide_border=1&hide_title=1&card_width=650&langs_count=3"/></a>
 </div>
   
 <h1 id="about" align="center">Who Am I</h1>
@@ -28,13 +28,9 @@
 <a href="https://github.com/amrk000" ><img width="20%" height="20px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
 </div>
 
-  <table>
-    <tr>
-      <td><a href="#end"><img src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"/></a></td>
-      <td><a href="https://github.com/amrk000?tab=repositories"><img src="https://user-images.githubusercontent.com/63168118/127409729-d9e027b2-1cb1-4047-9a9f-5cfbff668371.jpg"/></a></td>
-      <td><a href="https://play.google.com/store/apps/dev?id=5289896800613171020"><img src="https://user-images.githubusercontent.com/63168118/127409724-5dfa68fd-e7a0-4cf7-ba3b-37562cc7f013.jpg"/></a></td>
-    </tr>
-  </table>
+  <a href="#end"><img align="left" width="32%" src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"/>
+  <a href="https://github.com/amrk000?tab=repositories"><img align="center" width="32%" src="https://user-images.githubusercontent.com/63168118/127409729-d9e027b2-1cb1-4047-9a9f-5cfbff668371.jpg"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=5289896800613171020"><img align="right" width="32%" src="https://user-images.githubusercontent.com/63168118/127409724-5dfa68fd-e7a0-4cf7-ba3b-37562cc7f013.jpg"/></a>
   
   </br>
 <!--   <h2 id="android" align="left">Android Apps</h2> 
