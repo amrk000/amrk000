@@ -9,7 +9,7 @@
 <!--https://github.com/denvercoder1/github-readme-streak-stats-->
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="390px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neondark&hide_border=true&background=0D1117&fire=ffa60c&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=ff1616"/></a>
 
-<a href="https://github.com/amrk000"><img height="250px" width="75%" src="https://user-images.githubusercontent.com/63168118/162009244-62dfc067-29b5-450d-838d-b9ad13d91edc.svg"/></a>
+<a href="https://github.com/amrk000"><img height="200px" width="75%" src="https://user-images.githubusercontent.com/63168118/162009244-62dfc067-29b5-450d-838d-b9ad13d91edc.svg"/></a>
  
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img height="230px" width="920px" src="https://activity-graph.herokuapp.com/graph?username=amrk000&theme=react-dark&hide_border=true&area=true&color=ffffff&line=05C5FE&point=05C5FE&area=false&hide_title=true&color=null"/></a>
