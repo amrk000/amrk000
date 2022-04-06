@@ -29,7 +29,7 @@
 <!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
 <a href="https://github.com/amrk000"><img id="about" height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162049813-c448f0ee-af3c-4312-a254-e045341c9d51.svg"/></a>
 
-<p align="center">Geek who fell in love with computers & modern technology which changed the world and still shaping the future. Curiosity for knowledge is the power that motivates me for learning and continue self improving. Had passion to learn & try multiple fields like designing, Montage, Motion graphics, Audio production/editing & Software development. As a gamer, turning my ideas into reality and achieving goals is the best game to play.</p>
+<h3 align="center">Geek who fell in love with computers & modern technology which changed the world and still shaping the future. Curiosity for knowledge is the power that motivates me to learn and continue self improving. I had a passion to learn & try multiple fields like designing, Montage, Motion graphics, Audio production/editing & Software development. As a gamer, turning new ideas into reality and achieving my goals is the best game to play.</h3>
 <br>
 
 <br><br><br>
@@ -43,9 +43,7 @@
   <a href="https://play.google.com/store/apps/dev?id=5289896800613171020"><img align="right" width="31%" src="https://user-images.githubusercontent.com/63168118/127409724-5dfa68fd-e7a0-4cf7-ba3b-37562cc7f013.jpg"/></a>
 </div>
   
-  </br>
-<!--   <h2 id="android" align="left">Android Apps</h2> 
-  <a href="#"><img width="100%" height="500px" src="https://dl.dropbox.com/s/w85ucleitrtzbmz/Android%20Apps.svg"/></a> -->
+</br>
 
 <div align="center">
   <!--https://github.com/denvercoder1/readme-typing-svg-->
