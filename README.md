@@ -10,7 +10,7 @@
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="390px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neondark&hide_border=true&background=0D1117&fire=ffa60c&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=ff1616"/></a>
 
 <!-- Floating Neon Icons is Designed By Amrk000 | Feel Free to use it just keep href that contains my github profile link-->
-<a href="https://github.com/amrk000"><img height="300px" width="100%" src="https://user-images.githubusercontent.com/63168118/162019557-4375d968-4650-4d50-92f8-c28fb32b3f8a.svg"/></a>
+<a href="https://github.com/amrk000"><img height="300px" width="100%" src="https://user-images.githubusercontent.com/63168118/162019841-5915e78d-9a2c-4ebb-98ad-8eed20f1bfe7.svg"/></a>
 
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
 <a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img height="230px" width="920px" src="https://activity-graph.herokuapp.com/graph?username=amrk000&theme=react-dark&hide_border=true&area=true&color=ffffff&line=05C5FE&point=05C5FE&area=false&hide_title=true&color=null"/></a>
