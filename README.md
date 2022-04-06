@@ -47,7 +47,7 @@
 
 <div align="center">  
   <!--https://github.com/antonkomarev/github-profile-views-counter-->
-   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="25px" width="100px" src="https://komarev.com/ghpvc/?username=amrk000&style=flat-square&color=red&label=Views"/></a>
+   <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="30px" width="120px" src="https://komarev.com/ghpvc/?username=amrk000&style=for-the-badge&color=blue&label=Views"/></a>
   </div>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404884-a6a276ee-848f-46e4-a06b-45dc55f123b6.png"/></a>
 <a href="https://github.com/amrk000"><img id="end" width="100%" height="30px" src="https://user-images.githubusercontent.com/63168118/162051411-9ea2c56a-a457-4b15-a307-5621dd4c7735.svg"/></a>
