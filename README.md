@@ -29,14 +29,15 @@
 <!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
 <a href="https://github.com/amrk000"><img id="about" height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162049813-c448f0ee-af3c-4312-a254-e045341c9d51.svg"/></a>
 
-<h3 align="center">Geek who fell in love with computers & modern technology which changed the world and still shaping the future. Curiosity for knowledge is the power that motivates me to learn and continue self improving. I had a passion to learn & try multiple fields like designing, Montage, Motion graphics, Audio production/editing & Software development. As a gamer, turning new ideas into reality and achieving my goals is the best game to play.</h3>
-<br>
+<!-- ABOUT ME CODE WRITER is Designed By Amrk000 | Feel Free to use it just keep href that containsmy github profile link-->
+<a href="https://github.com/amrk000"><img width="100%" height="500px" src="https://user-images.githubusercontent.com/63168118/162071881-8e285a97-6512-4c96-a5fa-17fa42085d30.svg"/></a>
 
-<br><br><br>
+
+<br>
 <!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
 <!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
 <a href="https://github.com/amrk000"><img id="my_work" height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162050301-85ba09d0-d8be-40b9-a097-1ffb5a0ff6d0.svg"/></a>
-
+<br><br>
 <div align="center">
   <a href="#end"><img align="left" width="31%" src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"/>
   <a href="https://github.com/amrk000?tab=repositories"><img align="center" width="31%" src="https://user-images.githubusercontent.com/63168118/127409729-d9e027b2-1cb1-4047-9a9f-5cfbff668371.jpg"/></a>
