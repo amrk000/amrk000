@@ -9,24 +9,33 @@
 <!--https://github.com/denvercoder1/github-readme-streak-stats-->
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="390px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neondark&hide_border=true&background=0D1117&fire=ffa60c&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=ff1616"/></a>
 
+<!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
+<!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
+<a href="https://github.com/amrk000"><img height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162049313-ec11bc19-619d-4b6c-a564-8c72a6a14722.svg"/></a>
+
 <!-- Floating Neon Icons is Designed By Amrk000 | Feel Free to use it just keep href that contains my github profile link-->
 <a href="https://github.com/amrk000"><img height="300px" width="100%" src="https://user-images.githubusercontent.com/63168118/162020168-09b1dc0a-048c-41b4-a420-1ac2b3d142c7.svg"/></a>
 
+<!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
+<!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
+<a href="https://github.com/amrk000"><img height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162049545-d84ccef7-470d-49a7-81a4-985b6bdebf49.svg"/></a>
+
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img height="230px" width="920px" src="https://activity-graph.herokuapp.com/graph?username=amrk000&theme=react-dark&hide_border=true&area=true&color=ffffff&line=05C5FE&point=05C5FE&area=false&hide_title=true&color=null"/></a>
+<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img height="250px" width="950px" src="https://activity-graph.herokuapp.com/graph?username=amrk000&theme=react-dark&hide_border=true&area=true&color=ffffff&line=05C5FE&point=05C5FE&area=false&hide_title=true&color=null"/></a>
 </div>
-  
-<h1 id="about" align="center">Who Am I</h1>
-<div align="center">
-<a href="https://github.com/amrk000" ><img width="20%" height="20px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
-</div>
+
+<br><br><br>
+<!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
+<!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
+<a href="https://github.com/amrk000"><img id="about" height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162049813-c448f0ee-af3c-4312-a254-e045341c9d51.svg"/></a>
+
 <p align="center">Geek who fell in love with computers & modern technology which changed the world and still shaping the future. Curiosity for knowledge is the power that motivates me for learning and continue self improving. Had passion to learn & try multiple fields like designing, Montage, Motion graphics, Audio production/editing & Software development. As a gamer, turning my ideas into reality and achieving goals is the best game to play.</p>
 <br>
 
-<h1 id="my_work" align="center">My Work</h1>
-<div align="center">
-<a href="https://github.com/amrk000" ><img width="20%" height="20px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
-</div>
+<br><br><br>
+<!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
+<!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
+<a href="https://github.com/amrk000"><img id="my_work" height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162050301-85ba09d0-d8be-40b9-a097-1ffb5a0ff6d0.svg"/></a>
 
 <div align="center">
   <a href="#end"><img align="left" width="31%" src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"/>
