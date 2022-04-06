@@ -30,8 +30,7 @@
 <a href="https://github.com/amrk000"><img id="about" height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162049813-c448f0ee-af3c-4312-a254-e045341c9d51.svg"/></a>
 
 <!-- ABOUT ME CODE WRITER is Designed By Amrk000 | Feel Free to use it just keep href that containsmy github profile link-->
-<a href="https://github.com/amrk000"><img width="100%" height="500px" src="https://user-images.githubusercontent.com/63168118/162071881-8e285a97-6512-4c96-a5fa-17fa42085d30.svg"/></a>
-
+<a href="https://github.com/amrk000"><img width="100%" height="500px" src="https://user-images.githubusercontent.com/63168118/162072722-3be72c12-a0de-4df4-9030-9f66dc770a7c.svg"/></a>
 
 <br>
 <!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
