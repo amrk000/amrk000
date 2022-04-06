@@ -1,9 +1,9 @@
 
 <div align="center">
 <!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href that containsmy github profile link-->
-<a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://dl.dropbox.com/s/tvvb4aoj5bl1b0t/RGB%20Top%20Line.svg"/></a>
+<a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://user-images.githubusercontent.com/63168118/162051284-e37de11a-b7c1-4ec9-9942-4a084ec28542.svg"/></a>
 <a href="#my_work"><img width="100%" src="https://user-images.githubusercontent.com/63168118/134898999-1a031902-1626-4dac-9e81-77441ae6305b.jpg"/></a>
-<a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
+<a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://user-images.githubusercontent.com/63168118/162051411-9ea2c56a-a457-4b15-a307-5621dd4c7735.svg"/></a>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404757-85143ff6-21e0-4769-81f9-9e675f200da9.png"/></a>
 
 <!--https://github.com/denvercoder1/github-readme-streak-stats-->
@@ -53,5 +53,5 @@
    <a href="https://github.com/antonkomarev/github-profile-views-counter"><img height="20em" width="70em" src="https://komarev.com/ghpvc/?username=amrk000&style=flat-square&color=red&label=Views"/></a>
   </div>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404884-a6a276ee-848f-46e4-a06b-45dc55f123b6.png"/></a>
-<a href="https://github.com/amrk000"><img id="end" width="100%" height="30px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
+<a href="https://github.com/amrk000"><img id="end" width="100%" height="30px" src="https://user-images.githubusercontent.com/63168118/162051411-9ea2c56a-a457-4b15-a307-5621dd4c7735.svg"/></a>
 <!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href that contains my github profile link-->
