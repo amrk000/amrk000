@@ -1,6 +1,6 @@
 
 <div align="center">
-<!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href to that containing my github profile link-->
+<!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href that containsmy github profile link-->
 <a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://dl.dropbox.com/s/tvvb4aoj5bl1b0t/RGB%20Top%20Line.svg"/></a>
 <a href="#my_work"><img width="100%" src="https://user-images.githubusercontent.com/63168118/134898999-1a031902-1626-4dac-9e81-77441ae6305b.jpg"/></a>
 <a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
@@ -9,6 +9,7 @@
 <!--https://github.com/denvercoder1/github-readme-streak-stats-->
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="390px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neondark&hide_border=true&background=0D1117&fire=ffa60c&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=ff1616"/></a>
 
+<!-- Floating Neon Icons is Designed By Amrk000 | Feel Free to use it just keep href that contains my github profile link-->
 <a href="https://github.com/amrk000"><img height="250px" width="85%" src="https://user-images.githubusercontent.com/63168118/162009244-62dfc067-29b5-450d-838d-b9ad13d91edc.svg"/></a>
  
 <!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
@@ -47,4 +48,4 @@
   </div>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404884-a6a276ee-848f-46e4-a06b-45dc55f123b6.png"/></a>
 <a href="https://github.com/amrk000"><img id="end" width="100%" height="30px" src="https://dl.dropbox.com/s/i0j61v3t1b0pqag/RGB%20Bottom%20Line%20.svg"/></a>
-<!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href to that containing my github profile link-->
+<!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href that contains my github profile link-->
