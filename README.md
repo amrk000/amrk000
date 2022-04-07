@@ -38,9 +38,9 @@
 <a href="https://github.com/amrk000"><img id="my_work" height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162050301-85ba09d0-d8be-40b9-a097-1ffb5a0ff6d0.svg"/></a>
 <br><br>
 <div align="center">
-  <a href="#end"><img align="left" width="31.5%" src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"/>
-  <a href="https://github.com/amrk000?tab=repositories"><img align="center" width="31.5%" src="https://user-images.githubusercontent.com/63168118/127409729-d9e027b2-1cb1-4047-9a9f-5cfbff668371.jpg"/></a>
-  <a href="https://play.google.com/store/apps/dev?id=5289896800613171020"><img align="right" width="31.5%" src="https://user-images.githubusercontent.com/63168118/127409724-5dfa68fd-e7a0-4cf7-ba3b-37562cc7f013.jpg"/></a>
+  <a href="#end"><img align="left" width="31.8%" src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"/>
+  <a href="https://github.com/amrk000?tab=repositories"><img align="center" width="31.8%" src="https://user-images.githubusercontent.com/63168118/127409729-d9e027b2-1cb1-4047-9a9f-5cfbff668371.jpg"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=5289896800613171020"><img align="right" width="31.8%" src="https://user-images.githubusercontent.com/63168118/127409724-5dfa68fd-e7a0-4cf7-ba3b-37562cc7f013.jpg"/></a>
 </div>
   
 </br></br></br>
