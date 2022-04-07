@@ -11,7 +11,7 @@
 <a href="https://github.com/amrk000"><img height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162049313-ec11bc19-619d-4b6c-a564-8c72a6a14722.svg"/></a>
 
 <!-- Floating Neon Icons is Designed By Amrk000 | Feel Free to use it just keep href that contains my github profile link-->
-<a href="https://github.com/amrk000"><img height="300px" width="100%" src="https://user-images.githubusercontent.com/63168118/162273849-dceacc81-16d6-4eac-85e1-9fd1ee70c22f.svg"/></a> 
+<a href="https://github.com/amrk000"><img height="300px" width="100%" src="https://user-images.githubusercontent.com/63168118/162276619-98e7bca4-4054-45a2-8406-fd42d0bcbcd6.svg"/></a>
 
 <!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
 <!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
@@ -30,7 +30,7 @@
 <a href="https://github.com/amrk000"><img id="about" height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162049813-c448f0ee-af3c-4312-a254-e045341c9d51.svg"/></a>
 
 <!-- ABOUT ME CODE WRITER is Designed By Amrk000 | Feel Free to use it just keep href that containsmy github profile link-->
-<a href="https://github.com/amrk000"><img width="100%" height="500px" src="https://user-images.githubusercontent.com/63168118/162272590-4003bf9b-926c-487a-a75b-720a1b4a8206.svg"/></a> 
+<a href="https://github.com/amrk000"><img width="100%" height="500px" src="https://user-images.githubusercontent.com/63168118/162277611-3a37b4b4-376f-4bbb-86d4-8ee9e0281e7b.svg"/></a> 
 
 <br>
 <!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
@@ -38,11 +38,11 @@
 <a href="https://github.com/amrk000"><img id="my_work" height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162050301-85ba09d0-d8be-40b9-a097-1ffb5a0ff6d0.svg"/></a>
 <br><br>
 <div align="center">
-  <a href="#end"><img align="left" width="28%" src="https://user-images.githubusercontent.com/63168118/127409732-d00e672f-eee1-4781-80df-9b5e7bb06ea1.jpg"/>
-  <a href="https://github.com/amrk000?tab=repositories"><img align="center" width="28%" src="https://user-images.githubusercontent.com/63168118/127409729-d9e027b2-1cb1-4047-9a9f-5cfbff668371.jpg"/></a>
-  <a href="https://play.google.com/store/apps/dev?id=5289896800613171020"><img align="right" width="28%" src="https://user-images.githubusercontent.com/63168118/127409724-5dfa68fd-e7a0-4cf7-ba3b-37562cc7f013.jpg"/></a>
+  <a href="#end"><img align="left" width="31.5%" src="https://user-images.githubusercontent.com/63168118/162276418-e1614695-289a-43ea-a32b-31ca3b01f9b0.png"/>
+  <a href="https://github.com/amrk000?tab=repositories"><img align="center" width="31.5%" src="https://user-images.githubusercontent.com/63168118/162276433-4550754e-21fb-471b-a6e7-5038739ebf59.png"/></a>
+  <a href="https://play.google.com/store/apps/dev?id=5289896800613171020"><img align="right" width="31.5%" src="https://user-images.githubusercontent.com/63168118/162276445-639888cf-1d06-4d86-b207-ba5e40c0c410.png"/></a>
 </div>
-  
+
 </br></br></br>
 
 <div align="center">  
