@@ -14,7 +14,7 @@
 <a href="https://github.com/amrk000"><img height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162049313-ec11bc19-619d-4b6c-a564-8c72a6a14722.svg"/></a>
 
 <!-- Floating Neon Icons is Designed By Amrk000 | Feel Free to use it just keep href that contains my github profile link-->
-<a href="https://github.com/amrk000"><img height="300px" width="100%" src="https://user-images.githubusercontent.com/63168118/162272491-921a9fd9-77e5-47eb-a9cc-5fa10f2f49b6.svg"/></a> 
+<a href="https://github.com/amrk000"><img height="300px" width="100%" src="https://user-images.githubusercontent.com/63168118/162273849-dceacc81-16d6-4eac-85e1-9fd1ee70c22f.svg"/></a> 
 
 <!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
 <!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
