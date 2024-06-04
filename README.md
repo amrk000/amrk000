@@ -20,10 +20,6 @@
 
 <!--https://github.com/denvercoder1/github-readme-streak-stats-->
 <a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="360px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neondark&hide_border=true&background=0D1117&fire=ffa60c&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=ff1616"/></a>
-  
-<!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
-<a href="https://github.com/Ashutosh00710/github-readme-activity-graph"><img height="230px" width="950px" src="https://github-readme-activity-graph.cyclic.app/graph?username=amrk000&theme=react-dark&hide_border=true&area=true&color=ffffff&line=05C5FE&point=05C5FE&area=false&hide_title=true&color=null"/></a>
-</div>
 
 </br></br>
 <!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
