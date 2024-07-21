@@ -13,7 +13,8 @@
 
 <!-- Floating Neon Icons is Designed By Amrk000 | Feel Free to use it just keep href that contains my github profile link-->
 <a href="https://github.com/amrk000"><img height="300px" width="100%" src="https://user-images.githubusercontent.com/63168118/162276619-98e7bca4-4054-45a2-8406-fd42d0bcbcd6.svg"/></a>
-
+<center><b>With Experience in:</b> Kotlin, Python, Javascript</center>
+</br></br></br></br>
 <!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
 <!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
 <a href="https://github.com/amrk000"><img height="40px" width="100%" src="https://user-images.githubusercontent.com/63168118/162049545-d84ccef7-470d-49a7-81a4-985b6bdebf49.svg"/></a>
