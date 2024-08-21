@@ -1,9 +1,6 @@
-
-<div align="center">
 <!-- RGB LINE is Designed By Amrk000 | Feel Free to use it just keep href that containsmy github profile link-->
 <a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://user-images.githubusercontent.com/63168118/162051284-e37de11a-b7c1-4ec9-9942-4a084ec28542.svg"/></a>
-<a href="#my_work"><img width="100%" src="https://user-images.githubusercontent.com/63168118/170904857-f4a75d84-a3cc-4320-ac45-0d75462a35b0.jpg"/></a>
-
+<a href="#my_work"><img width="100%" src="https://github.com/user-attachments/assets/f44d4d39-e756-4f9b-af51-413ac35b8c64"/></a>
 <a href="https://github.com/amrk000"><img width="100%" height="30px" src="https://user-images.githubusercontent.com/63168118/162051411-9ea2c56a-a457-4b15-a307-5621dd4c7735.svg"/></a>
 <a href="#"><img width="100%" src="https://user-images.githubusercontent.com/63168118/127404757-85143ff6-21e0-4769-81f9-9e675f200da9.png"/></a>
 
