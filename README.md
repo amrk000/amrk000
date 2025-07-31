@@ -11,9 +11,10 @@
 <img width="300px" height="10px" src="https://user-images.githubusercontent.com/63168118/162051411-9ea2c56a-a457-4b15-a307-5621dd4c7735.svg"/>
 </div>
 </a>
+</br>
 
 <!-- Floating Neon Icons is Designed By Amrk000 | Feel Free to use it just keep href that contains my github profile link-->
-<a href="https://github.com/amrk000"><img height="500px" width="100%" src="https://github.com/user-attachments/assets/485087b2-bd55-46c3-ac70-be8f80a09ae9"/></a>
+<a href="https://github.com/amrk000"><img height="450rem" width="100%" src="https://github.com/user-attachments/assets/485087b2-bd55-46c3-ac70-be8f80a09ae9"/></a>
 </br>
 
 <!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
@@ -27,7 +28,7 @@
 </a>
 
 <!-- ABOUT ME CODE WRITER is Designed By Amrk000 | Feel Free to use it just keep href that containsmy github profile link-->
-<a href="https://github.com/amrk000"><img width="100%" height="500px" src="https://github.com/user-attachments/assets/daf825db-6f2f-4de4-9639-854ee6e49675"/></a> 
+<a href="https://github.com/amrk000"><img width="100%" height="450rem" src="https://github.com/user-attachments/assets/daf825db-6f2f-4de4-9639-854ee6e49675"/></a> 
 
 <!-- Glitch Title Edited By Amrk000 | Feel Free to use it just add href to this line containing my github profile link-->
 <!-- GLITCH EFFECT: https://codepen.io/aldrie/pen/PojGYLo -->
@@ -40,7 +41,7 @@
 </a>
 
 <!--https://github.com/denvercoder1/github-readme-streak-stats-->
-<a href="https://github.com/denvercoder1/github-readme-streak-stats"><img height="360px" width="100%" src="http://github-readme-streak-stats.herokuapp.com?user=amrk000&theme=neondark&hide_border=true&background=0D1117&fire=ffa60c&currStreakNum=DDDDDD&currStreakLabel=DDDDDD&stroke=DDDDDD00&sideNums=05C6FF&sideLabels=DDDDDD&dates=7B7B7B&ring=ff1616"/></a>
+<a href="https://git.io/streak-stats"><img width="100%" height="450rem" src="https://streak-stats.demolab.com?user=amrk000&theme=dark&hide_border=true&short_numbers=true&date_format=j%2Fn%5B%2FY%5D&background=90%2C00000000%2C00D1FFD9&ring=FF0000&fire=FFBA00&currStreakLabel=FF0000&sideNums=00CFFF&border=00000000&stroke=00000000"/></a>
 
 
 <div align="center">  
